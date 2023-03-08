@@ -1,9 +1,11 @@
 {
-  "collections": ["Please enter your Collection ID"],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "collections": [
+    "5LtktmsvuBAs96toYcp7jXAZneyqZYRAidEyW8aGyjhL"
+  ],
+  "network": "devnet",
+  "xApiKey": "mw_WPzHh8CtxNURvrvd1KSWoVoQRnF1gpLJ18W",
+  "serviceFee": 1,
+  "currencyOption": "SOL",
+  "name": "Vdsmmtg",
+  "logo": "https://collections.mirrorworld.fun/1678243913609-bb.png"
 }
